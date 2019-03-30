@@ -1,7 +1,6 @@
 /*
 Simple 3d Modeler
 Written by: Shengyu Wu(400075340)
-            Zuodong Xie(1414623)
 */
 
 #ifdef __APPLE__
